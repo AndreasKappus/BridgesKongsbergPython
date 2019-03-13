@@ -1,3 +1,3 @@
 # BridgesKongsbergPython
 
-Python Solution for brigdes Konigsbers using euler's algorithm
+Python Solution for bridges of Konigsberg using euler's algorithm
